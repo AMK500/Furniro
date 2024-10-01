@@ -498,11 +498,15 @@ header .d-flex .offcanvas-body .ul-social {
 
 
 
-/* _______________________F O U R________________________ */
+/* _______________________rooms________________________ */
 
-/* #region FOUR */
+/* #region rooms */
 
-
+.rooms {
+  background: #FCF8F3;
+  min-height: 670px;
+  border-bottom: 1px solid #0000002b;
+}
 
 
 
@@ -518,7 +522,7 @@ header .d-flex .offcanvas-body .ul-social {
   
 }
 
-/* #endregion FOUR */
+/* #endregion rooms */
 
 
 
